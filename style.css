@@ -27,6 +27,7 @@ li {
 
 .product {
   text-align: center;
+  padding: 10px;
 }
 
 img {
@@ -38,6 +39,12 @@ button {
   border: none;
   border-radius: 5px;
   padding: 8px;
+}
+
+footer {
+  background-color: #b49286;
+  text-align: center;
+  padding: 10px;
 }
 
 @media (max-width: 600px) {
